@@ -1,3 +1,14 @@
+# CubeMagic
+
+CubeMagic is a React-based application that demonstrates a 3D interactive experience combined with parallax scrolling. It uses [React](https://reactjs.org/), [Emotion](https://emotion.sh/), [react-three-fiber](https://github.com/pmndrs/react-three-fiber), [drei](https://github.com/pmndrs/drei), [Three.js](https://threejs.org/), and [React Scroll](https://www.npmjs.com/package/react-scroll).
+
+## Features
+
+- Interactive 3D cube with parallax scrolling
+- Dynamic background environment using HDRI images
+- Neon glow effect using emissive maps
+- Responsive navigation bar with smooth scrolling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
